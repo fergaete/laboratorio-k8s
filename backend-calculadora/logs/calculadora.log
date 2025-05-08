@@ -1,0 +1,1158 @@
+2025-05-07 14:23:52,084 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [cl.loteria.calculadora.CalculadoraApplicationTests]: CalculadoraApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-07 14:23:52,227 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration cl.loteria.calculadora.CalculadoraApplication for test class cl.loteria.calculadora.CalculadoraApplicationTests
+2025-05-07 14:23:52,594 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplicationTests v1.0.0 using Java 17.0.14 with PID 2192843 (started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:23:52,596 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:23:52,597 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:23:54,155 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:23:54,986 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:23:55,074 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplicationTests in 2.681 seconds (process running for 3.891)
+2025-05-07 14:24:05,150 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2193398 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:24:05,151 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:24:05,152 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:24:05,784 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 14:24:05,791 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:24:05,793 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 14:24:05,794 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 14:24:05,828 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 14:24:05,829 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 649 ms
+2025-05-07 14:24:06,005 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:24:06,229 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:24:06,255 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:24:06,266 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 14:24:06,278 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.334 seconds (process running for 1.597)
+2025-05-07 14:24:23,840 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 14:24:23,841 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 14:24:23,842 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 14:24:41,409 INFO o.s.a.AbstractOpenApiResource [http-nio-8080-exec-4] Init duration for springdoc-openapi is: 286 ms
+2025-05-07 14:26:49,858 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 14:26:49,866 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 14:28:17,366 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2201102 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:28:17,368 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:28:17,370 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:28:18,024 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 14:28:18,031 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:28:18,033 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 14:28:18,033 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 14:28:18,071 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 14:28:18,072 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 662 ms
+2025-05-07 14:28:18,255 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:28:18,483 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:28:18,520 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:28:18,534 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 14:28:18,550 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.431 seconds (process running for 1.752)
+2025-05-07 14:28:21,715 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 14:28:21,715 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 14:28:21,717 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 14:28:22,107 INFO o.s.a.AbstractOpenApiResource [http-nio-8080-exec-4] Init duration for springdoc-openapi is: 213 ms
+2025-05-07 14:32:38,976 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 14:32:38,980 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 14:32:54,959 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2209204 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:32:54,960 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:32:54,961 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:32:55,563 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 14:32:55,570 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:32:55,572 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 14:32:55,572 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 14:32:55,607 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 14:32:55,608 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 618 ms
+2025-05-07 14:32:55,779 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:32:55,977 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:32:56,001 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:32:56,012 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 14:32:56,024 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.258 seconds (process running for 1.515)
+2025-05-07 14:33:09,577 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 14:33:09,577 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 14:33:09,578 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2025-05-07 14:33:10,026 INFO o.s.a.AbstractOpenApiResource [http-nio-8080-exec-4] Init duration for springdoc-openapi is: 264 ms
+2025-05-07 14:34:22,488 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 14:34:22,492 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 14:53:15,592 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2242447 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:53:15,593 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:53:15,594 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:53:16,280 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 14:53:16,287 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:53:16,288 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 14:53:16,289 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 14:53:16,318 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 14:53:16,319 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 689 ms
+2025-05-07 14:53:16,499 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:53:16,788 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:53:16,810 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:53:16,827 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 14:53:16,846 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.453 seconds (process running for 1.707)
+2025-05-07 14:53:20,466 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 14:53:20,467 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 14:53:20,469 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 14:55:25,813 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 14:55:25,818 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 14:55:30,411 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2247990 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 14:55:30,412 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 14:55:30,413 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 14:55:30,996 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 14:55:31,003 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:55:31,005 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 14:55:31,005 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 14:55:31,034 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 14:55:31,034 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 596 ms
+2025-05-07 14:55:31,185 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 14:55:31,358 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 14:55:31,380 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 14:55:31,390 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 14:55:31,401 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.188 seconds (process running for 1.512)
+2025-05-07 14:55:34,336 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 14:55:34,336 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 14:55:34,338 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 16:37:31,746 INFO o.s.a.AbstractOpenApiResource [http-nio-8080-exec-6] Init duration for springdoc-openapi is: 182 ms
+2025-05-07 16:38:15,213 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 16:38:15,218 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 16:38:24,553 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [cl.loteria.calculadora.CalculadoraApplicationTests]: CalculadoraApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-07 16:38:24,641 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration cl.loteria.calculadora.CalculadoraApplication for test class cl.loteria.calculadora.CalculadoraApplicationTests
+2025-05-07 16:38:24,990 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplicationTests v1.0.0 using Java 17.0.14 with PID 2412049 (started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 16:38:24,992 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 16:38:24,993 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 16:38:26,442 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 16:38:26,984 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 16:38:27,051 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplicationTests in 2.306 seconds (process running for 3.13)
+2025-05-07 17:16:46,943 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [cl.loteria.calculadora.CalculadoraApplicationTests]: CalculadoraApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-07 17:16:47,018 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration cl.loteria.calculadora.CalculadoraApplication for test class cl.loteria.calculadora.CalculadoraApplicationTests
+2025-05-07 17:16:47,351 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplicationTests v1.0.0 using Java 17.0.14 with PID 2482487 (started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 17:16:47,353 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 17:16:47,355 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 17:16:48,619 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 17:16:49,173 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 17:16:49,247 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplicationTests in 2.124 seconds (process running for 2.82)
+2025-05-07 18:10:49,753 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [cl.loteria.calculadora.CalculadoraApplicationTests]: CalculadoraApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-07 18:10:49,841 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration cl.loteria.calculadora.CalculadoraApplication for test class cl.loteria.calculadora.CalculadoraApplicationTests
+2025-05-07 18:10:50,086 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplicationTests v1.0.0 using Java 17.0.14 with PID 2583786 (started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 18:10:50,087 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 18:10:50,088 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 18:10:51,221 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 18:10:51,574 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 18:10:51,612 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplicationTests in 1.666 seconds (process running for 2.367)
+2025-05-07 18:10:58,559 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2584149 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 18:10:58,560 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 18:10:58,560 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 18:10:59,179 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 18:10:59,186 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 18:10:59,187 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 18:10:59,187 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 18:10:59,219 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 18:10:59,219 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 629 ms
+2025-05-07 18:10:59,374 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 18:10:59,551 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 18:10:59,571 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 18:10:59,584 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 18:10:59,594 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.22 seconds (process running for 1.542)
+2025-05-07 18:12:20,832 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 18:12:20,832 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 18:12:20,834 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 18:12:26,015 INFO o.s.a.AbstractOpenApiResource [http-nio-8080-exec-9] Init duration for springdoc-openapi is: 224 ms
+2025-05-07 18:19:22,218 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 18:19:22,223 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 18:19:26,744 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplication v1.0.0 using Java 17.0.14 with PID 2599032 (/home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora/target/classes started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 18:19:26,745 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 18:19:26,746 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 18:19:27,311 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2025-05-07 18:19:27,318 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-07 18:19:27,320 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2025-05-07 18:19:27,320 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-07 18:19:27,348 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2025-05-07 18:19:27,348 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 577 ms
+2025-05-07 18:19:27,503 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 18:19:27,689 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 18:19:27,711 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2025-05-07 18:19:27,723 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2025-05-07 18:19:27,735 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplication in 1.166 seconds (process running for 1.425)
+2025-05-07 18:19:31,566 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-07 18:19:31,568 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2025-05-07 18:19:31,570 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2025-05-07 18:19:31,598 INFO c.l.c.c.ControladorCarga [http-nio-8080-exec-1] Iniciando generación de carga de CPU por 60 segundos
+2025-05-07 18:19:31,681 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 1000000 iteraciones completadas
+2025-05-07 18:19:31,749 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 2000000 iteraciones completadas
+2025-05-07 18:19:31,817 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 3000000 iteraciones completadas
+2025-05-07 18:19:31,885 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 4000000 iteraciones completadas
+2025-05-07 18:19:31,943 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 5000000 iteraciones completadas
+2025-05-07 18:19:32,001 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 6000000 iteraciones completadas
+2025-05-07 18:19:32,065 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 7000000 iteraciones completadas
+2025-05-07 18:19:32,134 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 8000000 iteraciones completadas
+2025-05-07 18:19:32,195 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 9000000 iteraciones completadas
+2025-05-07 18:19:32,255 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 10000000 iteraciones completadas
+2025-05-07 18:19:32,323 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 11000000 iteraciones completadas
+2025-05-07 18:19:32,382 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 12000000 iteraciones completadas
+2025-05-07 18:19:32,442 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 13000000 iteraciones completadas
+2025-05-07 18:19:32,501 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 14000000 iteraciones completadas
+2025-05-07 18:19:32,569 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 15000000 iteraciones completadas
+2025-05-07 18:19:32,643 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 16000000 iteraciones completadas
+2025-05-07 18:19:32,715 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 17000000 iteraciones completadas
+2025-05-07 18:19:32,785 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 18000000 iteraciones completadas
+2025-05-07 18:19:32,858 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 19000000 iteraciones completadas
+2025-05-07 18:19:32,918 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 20000000 iteraciones completadas
+2025-05-07 18:19:32,985 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 21000000 iteraciones completadas
+2025-05-07 18:19:33,055 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 22000000 iteraciones completadas
+2025-05-07 18:19:33,116 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 23000000 iteraciones completadas
+2025-05-07 18:19:33,183 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 24000000 iteraciones completadas
+2025-05-07 18:19:33,247 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 25000000 iteraciones completadas
+2025-05-07 18:19:33,310 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 26000000 iteraciones completadas
+2025-05-07 18:19:33,373 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 27000000 iteraciones completadas
+2025-05-07 18:19:33,436 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 28000000 iteraciones completadas
+2025-05-07 18:19:33,499 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 29000000 iteraciones completadas
+2025-05-07 18:19:33,560 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 30000000 iteraciones completadas
+2025-05-07 18:19:33,618 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 31000000 iteraciones completadas
+2025-05-07 18:19:33,677 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 32000000 iteraciones completadas
+2025-05-07 18:19:33,734 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 33000000 iteraciones completadas
+2025-05-07 18:19:33,791 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 34000000 iteraciones completadas
+2025-05-07 18:19:33,850 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 35000000 iteraciones completadas
+2025-05-07 18:19:33,908 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 36000000 iteraciones completadas
+2025-05-07 18:19:33,966 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 37000000 iteraciones completadas
+2025-05-07 18:19:34,025 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 38000000 iteraciones completadas
+2025-05-07 18:19:34,084 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 39000000 iteraciones completadas
+2025-05-07 18:19:34,160 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 40000000 iteraciones completadas
+2025-05-07 18:19:34,221 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 41000000 iteraciones completadas
+2025-05-07 18:19:34,284 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 42000000 iteraciones completadas
+2025-05-07 18:19:34,349 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 43000000 iteraciones completadas
+2025-05-07 18:19:34,413 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 44000000 iteraciones completadas
+2025-05-07 18:19:34,471 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 45000000 iteraciones completadas
+2025-05-07 18:19:34,528 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 46000000 iteraciones completadas
+2025-05-07 18:19:34,586 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 47000000 iteraciones completadas
+2025-05-07 18:19:34,644 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 48000000 iteraciones completadas
+2025-05-07 18:19:34,702 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 49000000 iteraciones completadas
+2025-05-07 18:19:34,762 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 50000000 iteraciones completadas
+2025-05-07 18:19:34,822 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 51000000 iteraciones completadas
+2025-05-07 18:19:34,882 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 52000000 iteraciones completadas
+2025-05-07 18:19:34,942 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 53000000 iteraciones completadas
+2025-05-07 18:19:35,005 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 54000000 iteraciones completadas
+2025-05-07 18:19:35,066 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 55000000 iteraciones completadas
+2025-05-07 18:19:35,133 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 56000000 iteraciones completadas
+2025-05-07 18:19:35,199 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 57000000 iteraciones completadas
+2025-05-07 18:19:35,263 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 58000000 iteraciones completadas
+2025-05-07 18:19:35,323 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 59000000 iteraciones completadas
+2025-05-07 18:19:35,386 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 60000000 iteraciones completadas
+2025-05-07 18:19:35,449 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 61000000 iteraciones completadas
+2025-05-07 18:19:35,512 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 62000000 iteraciones completadas
+2025-05-07 18:19:35,571 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 63000000 iteraciones completadas
+2025-05-07 18:19:35,628 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 64000000 iteraciones completadas
+2025-05-07 18:19:35,689 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 65000000 iteraciones completadas
+2025-05-07 18:19:35,746 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 66000000 iteraciones completadas
+2025-05-07 18:19:35,803 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 67000000 iteraciones completadas
+2025-05-07 18:19:35,861 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 68000000 iteraciones completadas
+2025-05-07 18:19:35,919 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 69000000 iteraciones completadas
+2025-05-07 18:19:35,975 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 70000000 iteraciones completadas
+2025-05-07 18:19:36,033 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 71000000 iteraciones completadas
+2025-05-07 18:19:36,096 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 72000000 iteraciones completadas
+2025-05-07 18:19:36,172 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 73000000 iteraciones completadas
+2025-05-07 18:19:36,235 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 74000000 iteraciones completadas
+2025-05-07 18:19:36,298 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 75000000 iteraciones completadas
+2025-05-07 18:19:36,362 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 76000000 iteraciones completadas
+2025-05-07 18:19:36,425 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 77000000 iteraciones completadas
+2025-05-07 18:19:36,487 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 78000000 iteraciones completadas
+2025-05-07 18:19:36,550 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 79000000 iteraciones completadas
+2025-05-07 18:19:36,607 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 80000000 iteraciones completadas
+2025-05-07 18:19:36,667 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 81000000 iteraciones completadas
+2025-05-07 18:19:36,724 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 82000000 iteraciones completadas
+2025-05-07 18:19:36,781 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 83000000 iteraciones completadas
+2025-05-07 18:19:36,839 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 84000000 iteraciones completadas
+2025-05-07 18:19:36,896 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 85000000 iteraciones completadas
+2025-05-07 18:19:36,953 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 86000000 iteraciones completadas
+2025-05-07 18:19:37,012 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 87000000 iteraciones completadas
+2025-05-07 18:19:37,069 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 88000000 iteraciones completadas
+2025-05-07 18:19:37,133 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 89000000 iteraciones completadas
+2025-05-07 18:19:37,197 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 90000000 iteraciones completadas
+2025-05-07 18:19:37,260 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 91000000 iteraciones completadas
+2025-05-07 18:19:37,323 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 92000000 iteraciones completadas
+2025-05-07 18:19:37,385 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 93000000 iteraciones completadas
+2025-05-07 18:19:37,445 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 94000000 iteraciones completadas
+2025-05-07 18:19:37,503 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 95000000 iteraciones completadas
+2025-05-07 18:19:37,564 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 96000000 iteraciones completadas
+2025-05-07 18:19:37,622 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 97000000 iteraciones completadas
+2025-05-07 18:19:37,680 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 98000000 iteraciones completadas
+2025-05-07 18:19:37,736 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 99000000 iteraciones completadas
+2025-05-07 18:19:37,793 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 100000000 iteraciones completadas
+2025-05-07 18:19:37,854 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 101000000 iteraciones completadas
+2025-05-07 18:19:37,917 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 102000000 iteraciones completadas
+2025-05-07 18:19:37,980 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 103000000 iteraciones completadas
+2025-05-07 18:19:38,046 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 104000000 iteraciones completadas
+2025-05-07 18:19:38,103 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 105000000 iteraciones completadas
+2025-05-07 18:19:38,168 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 106000000 iteraciones completadas
+2025-05-07 18:19:38,225 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 107000000 iteraciones completadas
+2025-05-07 18:19:38,283 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 108000000 iteraciones completadas
+2025-05-07 18:19:38,340 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 109000000 iteraciones completadas
+2025-05-07 18:19:38,399 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 110000000 iteraciones completadas
+2025-05-07 18:19:38,456 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 111000000 iteraciones completadas
+2025-05-07 18:19:38,514 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 112000000 iteraciones completadas
+2025-05-07 18:19:38,574 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 113000000 iteraciones completadas
+2025-05-07 18:19:38,634 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 114000000 iteraciones completadas
+2025-05-07 18:19:38,693 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 115000000 iteraciones completadas
+2025-05-07 18:19:38,751 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 116000000 iteraciones completadas
+2025-05-07 18:19:38,810 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 117000000 iteraciones completadas
+2025-05-07 18:19:38,871 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 118000000 iteraciones completadas
+2025-05-07 18:19:38,930 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 119000000 iteraciones completadas
+2025-05-07 18:19:38,990 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 120000000 iteraciones completadas
+2025-05-07 18:19:39,052 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 121000000 iteraciones completadas
+2025-05-07 18:19:39,119 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 122000000 iteraciones completadas
+2025-05-07 18:19:39,184 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 123000000 iteraciones completadas
+2025-05-07 18:19:39,243 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 124000000 iteraciones completadas
+2025-05-07 18:19:39,301 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 125000000 iteraciones completadas
+2025-05-07 18:19:39,363 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 126000000 iteraciones completadas
+2025-05-07 18:19:39,424 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 127000000 iteraciones completadas
+2025-05-07 18:19:39,489 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 128000000 iteraciones completadas
+2025-05-07 18:19:39,549 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 129000000 iteraciones completadas
+2025-05-07 18:19:39,618 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 130000000 iteraciones completadas
+2025-05-07 18:19:39,683 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 131000000 iteraciones completadas
+2025-05-07 18:19:39,747 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 132000000 iteraciones completadas
+2025-05-07 18:19:39,815 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 133000000 iteraciones completadas
+2025-05-07 18:19:39,878 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 134000000 iteraciones completadas
+2025-05-07 18:19:39,944 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 135000000 iteraciones completadas
+2025-05-07 18:19:40,012 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 136000000 iteraciones completadas
+2025-05-07 18:19:40,084 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 137000000 iteraciones completadas
+2025-05-07 18:19:40,172 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 138000000 iteraciones completadas
+2025-05-07 18:19:40,249 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 139000000 iteraciones completadas
+2025-05-07 18:19:40,315 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 140000000 iteraciones completadas
+2025-05-07 18:19:40,383 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 141000000 iteraciones completadas
+2025-05-07 18:19:40,447 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 142000000 iteraciones completadas
+2025-05-07 18:19:40,509 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 143000000 iteraciones completadas
+2025-05-07 18:19:40,570 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 144000000 iteraciones completadas
+2025-05-07 18:19:40,626 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 145000000 iteraciones completadas
+2025-05-07 18:19:40,689 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 146000000 iteraciones completadas
+2025-05-07 18:19:40,747 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 147000000 iteraciones completadas
+2025-05-07 18:19:40,806 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 148000000 iteraciones completadas
+2025-05-07 18:19:40,867 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 149000000 iteraciones completadas
+2025-05-07 18:19:40,926 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 150000000 iteraciones completadas
+2025-05-07 18:19:40,984 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 151000000 iteraciones completadas
+2025-05-07 18:19:41,044 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 152000000 iteraciones completadas
+2025-05-07 18:19:41,103 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 153000000 iteraciones completadas
+2025-05-07 18:19:41,169 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 154000000 iteraciones completadas
+2025-05-07 18:19:41,229 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 155000000 iteraciones completadas
+2025-05-07 18:19:41,288 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 156000000 iteraciones completadas
+2025-05-07 18:19:41,347 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 157000000 iteraciones completadas
+2025-05-07 18:19:41,406 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 158000000 iteraciones completadas
+2025-05-07 18:19:41,465 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 159000000 iteraciones completadas
+2025-05-07 18:19:41,525 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 160000000 iteraciones completadas
+2025-05-07 18:19:41,586 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 161000000 iteraciones completadas
+2025-05-07 18:19:41,646 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 162000000 iteraciones completadas
+2025-05-07 18:19:41,704 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 163000000 iteraciones completadas
+2025-05-07 18:19:41,763 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 164000000 iteraciones completadas
+2025-05-07 18:19:41,821 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 165000000 iteraciones completadas
+2025-05-07 18:19:41,882 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 166000000 iteraciones completadas
+2025-05-07 18:19:41,942 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 167000000 iteraciones completadas
+2025-05-07 18:19:42,001 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 168000000 iteraciones completadas
+2025-05-07 18:19:42,063 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 169000000 iteraciones completadas
+2025-05-07 18:19:42,133 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 170000000 iteraciones completadas
+2025-05-07 18:19:42,195 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 171000000 iteraciones completadas
+2025-05-07 18:19:42,261 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 172000000 iteraciones completadas
+2025-05-07 18:19:42,333 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 173000000 iteraciones completadas
+2025-05-07 18:19:42,412 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 174000000 iteraciones completadas
+2025-05-07 18:19:42,493 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 175000000 iteraciones completadas
+2025-05-07 18:19:42,571 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 176000000 iteraciones completadas
+2025-05-07 18:19:42,636 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 177000000 iteraciones completadas
+2025-05-07 18:19:42,696 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 178000000 iteraciones completadas
+2025-05-07 18:19:42,764 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 179000000 iteraciones completadas
+2025-05-07 18:19:42,825 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 180000000 iteraciones completadas
+2025-05-07 18:19:42,889 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 181000000 iteraciones completadas
+2025-05-07 18:19:42,954 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 182000000 iteraciones completadas
+2025-05-07 18:19:43,026 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 183000000 iteraciones completadas
+2025-05-07 18:19:43,094 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 184000000 iteraciones completadas
+2025-05-07 18:19:43,164 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 185000000 iteraciones completadas
+2025-05-07 18:19:43,226 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 186000000 iteraciones completadas
+2025-05-07 18:19:43,285 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 187000000 iteraciones completadas
+2025-05-07 18:19:43,346 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 188000000 iteraciones completadas
+2025-05-07 18:19:43,406 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 189000000 iteraciones completadas
+2025-05-07 18:19:43,466 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 190000000 iteraciones completadas
+2025-05-07 18:19:43,526 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 191000000 iteraciones completadas
+2025-05-07 18:19:43,587 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 192000000 iteraciones completadas
+2025-05-07 18:19:43,647 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 193000000 iteraciones completadas
+2025-05-07 18:19:43,706 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 194000000 iteraciones completadas
+2025-05-07 18:19:43,765 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 195000000 iteraciones completadas
+2025-05-07 18:19:43,823 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 196000000 iteraciones completadas
+2025-05-07 18:19:43,882 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 197000000 iteraciones completadas
+2025-05-07 18:19:43,941 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 198000000 iteraciones completadas
+2025-05-07 18:19:43,999 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 199000000 iteraciones completadas
+2025-05-07 18:19:44,059 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 200000000 iteraciones completadas
+2025-05-07 18:19:44,123 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 201000000 iteraciones completadas
+2025-05-07 18:19:44,185 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 202000000 iteraciones completadas
+2025-05-07 18:19:44,242 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 203000000 iteraciones completadas
+2025-05-07 18:19:44,300 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 204000000 iteraciones completadas
+2025-05-07 18:19:44,358 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 205000000 iteraciones completadas
+2025-05-07 18:19:44,415 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 206000000 iteraciones completadas
+2025-05-07 18:19:44,477 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 207000000 iteraciones completadas
+2025-05-07 18:19:44,534 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 208000000 iteraciones completadas
+2025-05-07 18:19:44,594 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 209000000 iteraciones completadas
+2025-05-07 18:19:44,654 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 210000000 iteraciones completadas
+2025-05-07 18:19:44,714 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 211000000 iteraciones completadas
+2025-05-07 18:19:44,774 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 212000000 iteraciones completadas
+2025-05-07 18:19:44,834 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 213000000 iteraciones completadas
+2025-05-07 18:19:44,895 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 214000000 iteraciones completadas
+2025-05-07 18:19:44,957 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 215000000 iteraciones completadas
+2025-05-07 18:19:45,020 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 216000000 iteraciones completadas
+2025-05-07 18:19:45,081 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 217000000 iteraciones completadas
+2025-05-07 18:19:45,149 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 218000000 iteraciones completadas
+2025-05-07 18:19:45,211 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 219000000 iteraciones completadas
+2025-05-07 18:19:45,271 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 220000000 iteraciones completadas
+2025-05-07 18:19:45,332 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 221000000 iteraciones completadas
+2025-05-07 18:19:45,393 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 222000000 iteraciones completadas
+2025-05-07 18:19:45,456 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 223000000 iteraciones completadas
+2025-05-07 18:19:45,516 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 224000000 iteraciones completadas
+2025-05-07 18:19:45,578 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 225000000 iteraciones completadas
+2025-05-07 18:19:45,640 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 226000000 iteraciones completadas
+2025-05-07 18:19:45,703 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 227000000 iteraciones completadas
+2025-05-07 18:19:45,765 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 228000000 iteraciones completadas
+2025-05-07 18:19:45,826 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 229000000 iteraciones completadas
+2025-05-07 18:19:45,888 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 230000000 iteraciones completadas
+2025-05-07 18:19:45,952 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 231000000 iteraciones completadas
+2025-05-07 18:19:46,016 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 232000000 iteraciones completadas
+2025-05-07 18:19:46,079 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 233000000 iteraciones completadas
+2025-05-07 18:19:46,150 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 234000000 iteraciones completadas
+2025-05-07 18:19:46,214 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 235000000 iteraciones completadas
+2025-05-07 18:19:46,275 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 236000000 iteraciones completadas
+2025-05-07 18:19:46,336 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 237000000 iteraciones completadas
+2025-05-07 18:19:46,397 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 238000000 iteraciones completadas
+2025-05-07 18:19:46,458 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 239000000 iteraciones completadas
+2025-05-07 18:19:46,521 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 240000000 iteraciones completadas
+2025-05-07 18:19:46,582 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 241000000 iteraciones completadas
+2025-05-07 18:19:46,644 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 242000000 iteraciones completadas
+2025-05-07 18:19:46,706 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 243000000 iteraciones completadas
+2025-05-07 18:19:46,768 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 244000000 iteraciones completadas
+2025-05-07 18:19:46,831 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 245000000 iteraciones completadas
+2025-05-07 18:19:46,894 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 246000000 iteraciones completadas
+2025-05-07 18:19:46,955 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 247000000 iteraciones completadas
+2025-05-07 18:19:47,022 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 248000000 iteraciones completadas
+2025-05-07 18:19:47,108 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 249000000 iteraciones completadas
+2025-05-07 18:19:47,185 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 250000000 iteraciones completadas
+2025-05-07 18:19:47,250 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 251000000 iteraciones completadas
+2025-05-07 18:19:47,310 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 252000000 iteraciones completadas
+2025-05-07 18:19:47,371 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 253000000 iteraciones completadas
+2025-05-07 18:19:47,429 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 254000000 iteraciones completadas
+2025-05-07 18:19:47,489 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 255000000 iteraciones completadas
+2025-05-07 18:19:47,548 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 256000000 iteraciones completadas
+2025-05-07 18:19:47,605 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 257000000 iteraciones completadas
+2025-05-07 18:19:47,662 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 258000000 iteraciones completadas
+2025-05-07 18:19:47,721 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 259000000 iteraciones completadas
+2025-05-07 18:19:47,780 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 260000000 iteraciones completadas
+2025-05-07 18:19:47,839 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 261000000 iteraciones completadas
+2025-05-07 18:19:47,897 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 262000000 iteraciones completadas
+2025-05-07 18:19:47,958 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 263000000 iteraciones completadas
+2025-05-07 18:19:48,027 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 264000000 iteraciones completadas
+2025-05-07 18:19:48,092 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 265000000 iteraciones completadas
+2025-05-07 18:19:48,163 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 266000000 iteraciones completadas
+2025-05-07 18:19:48,228 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 267000000 iteraciones completadas
+2025-05-07 18:19:48,285 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 268000000 iteraciones completadas
+2025-05-07 18:19:48,345 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 269000000 iteraciones completadas
+2025-05-07 18:19:48,405 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 270000000 iteraciones completadas
+2025-05-07 18:19:48,464 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 271000000 iteraciones completadas
+2025-05-07 18:19:48,526 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 272000000 iteraciones completadas
+2025-05-07 18:19:48,586 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 273000000 iteraciones completadas
+2025-05-07 18:19:48,645 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 274000000 iteraciones completadas
+2025-05-07 18:19:48,705 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 275000000 iteraciones completadas
+2025-05-07 18:19:48,765 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 276000000 iteraciones completadas
+2025-05-07 18:19:48,825 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 277000000 iteraciones completadas
+2025-05-07 18:19:48,885 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 278000000 iteraciones completadas
+2025-05-07 18:19:48,945 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 279000000 iteraciones completadas
+2025-05-07 18:19:49,005 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 280000000 iteraciones completadas
+2025-05-07 18:19:49,067 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 281000000 iteraciones completadas
+2025-05-07 18:19:49,140 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 282000000 iteraciones completadas
+2025-05-07 18:19:49,199 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 283000000 iteraciones completadas
+2025-05-07 18:19:49,261 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 284000000 iteraciones completadas
+2025-05-07 18:19:49,323 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 285000000 iteraciones completadas
+2025-05-07 18:19:49,388 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 286000000 iteraciones completadas
+2025-05-07 18:19:49,451 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 287000000 iteraciones completadas
+2025-05-07 18:19:49,515 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 288000000 iteraciones completadas
+2025-05-07 18:19:49,576 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 289000000 iteraciones completadas
+2025-05-07 18:19:49,635 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 290000000 iteraciones completadas
+2025-05-07 18:19:49,695 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 291000000 iteraciones completadas
+2025-05-07 18:19:49,755 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 292000000 iteraciones completadas
+2025-05-07 18:19:49,815 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 293000000 iteraciones completadas
+2025-05-07 18:19:49,875 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 294000000 iteraciones completadas
+2025-05-07 18:19:49,936 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 295000000 iteraciones completadas
+2025-05-07 18:19:49,997 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 296000000 iteraciones completadas
+2025-05-07 18:19:50,058 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 297000000 iteraciones completadas
+2025-05-07 18:19:50,124 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 298000000 iteraciones completadas
+2025-05-07 18:19:50,186 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 299000000 iteraciones completadas
+2025-05-07 18:19:50,247 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 300000000 iteraciones completadas
+2025-05-07 18:19:50,308 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 301000000 iteraciones completadas
+2025-05-07 18:19:50,368 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 302000000 iteraciones completadas
+2025-05-07 18:19:50,428 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 303000000 iteraciones completadas
+2025-05-07 18:19:50,488 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 304000000 iteraciones completadas
+2025-05-07 18:19:50,554 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 305000000 iteraciones completadas
+2025-05-07 18:19:50,614 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 306000000 iteraciones completadas
+2025-05-07 18:19:50,674 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 307000000 iteraciones completadas
+2025-05-07 18:19:50,734 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 308000000 iteraciones completadas
+2025-05-07 18:19:50,794 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 309000000 iteraciones completadas
+2025-05-07 18:19:50,856 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 310000000 iteraciones completadas
+2025-05-07 18:19:50,916 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 311000000 iteraciones completadas
+2025-05-07 18:19:50,976 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 312000000 iteraciones completadas
+2025-05-07 18:19:51,037 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 313000000 iteraciones completadas
+2025-05-07 18:19:51,098 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 314000000 iteraciones completadas
+2025-05-07 18:19:51,166 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 315000000 iteraciones completadas
+2025-05-07 18:19:51,228 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 316000000 iteraciones completadas
+2025-05-07 18:19:51,288 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 317000000 iteraciones completadas
+2025-05-07 18:19:51,348 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 318000000 iteraciones completadas
+2025-05-07 18:19:51,409 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 319000000 iteraciones completadas
+2025-05-07 18:19:51,468 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 320000000 iteraciones completadas
+2025-05-07 18:19:51,529 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 321000000 iteraciones completadas
+2025-05-07 18:19:51,592 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 322000000 iteraciones completadas
+2025-05-07 18:19:51,652 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 323000000 iteraciones completadas
+2025-05-07 18:19:51,712 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 324000000 iteraciones completadas
+2025-05-07 18:19:51,773 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 325000000 iteraciones completadas
+2025-05-07 18:19:51,833 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 326000000 iteraciones completadas
+2025-05-07 18:19:51,895 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 327000000 iteraciones completadas
+2025-05-07 18:19:51,954 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 328000000 iteraciones completadas
+2025-05-07 18:19:52,015 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 329000000 iteraciones completadas
+2025-05-07 18:19:52,075 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 330000000 iteraciones completadas
+2025-05-07 18:19:52,142 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 331000000 iteraciones completadas
+2025-05-07 18:19:52,206 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 332000000 iteraciones completadas
+2025-05-07 18:19:52,269 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 333000000 iteraciones completadas
+2025-05-07 18:19:52,331 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 334000000 iteraciones completadas
+2025-05-07 18:19:52,393 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 335000000 iteraciones completadas
+2025-05-07 18:19:52,452 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 336000000 iteraciones completadas
+2025-05-07 18:19:52,513 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 337000000 iteraciones completadas
+2025-05-07 18:19:52,579 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 338000000 iteraciones completadas
+2025-05-07 18:19:52,640 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 339000000 iteraciones completadas
+2025-05-07 18:19:52,701 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 340000000 iteraciones completadas
+2025-05-07 18:19:52,763 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 341000000 iteraciones completadas
+2025-05-07 18:19:52,824 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 342000000 iteraciones completadas
+2025-05-07 18:19:52,886 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 343000000 iteraciones completadas
+2025-05-07 18:19:52,948 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 344000000 iteraciones completadas
+2025-05-07 18:19:53,018 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 345000000 iteraciones completadas
+2025-05-07 18:19:53,084 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 346000000 iteraciones completadas
+2025-05-07 18:19:53,158 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 347000000 iteraciones completadas
+2025-05-07 18:19:53,218 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 348000000 iteraciones completadas
+2025-05-07 18:19:53,277 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 349000000 iteraciones completadas
+2025-05-07 18:19:53,337 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 350000000 iteraciones completadas
+2025-05-07 18:19:53,397 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 351000000 iteraciones completadas
+2025-05-07 18:19:53,458 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 352000000 iteraciones completadas
+2025-05-07 18:19:53,518 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 353000000 iteraciones completadas
+2025-05-07 18:19:53,578 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 354000000 iteraciones completadas
+2025-05-07 18:19:53,638 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 355000000 iteraciones completadas
+2025-05-07 18:19:53,697 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 356000000 iteraciones completadas
+2025-05-07 18:19:53,758 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 357000000 iteraciones completadas
+2025-05-07 18:19:53,818 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 358000000 iteraciones completadas
+2025-05-07 18:19:53,879 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 359000000 iteraciones completadas
+2025-05-07 18:19:53,939 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 360000000 iteraciones completadas
+2025-05-07 18:19:54,000 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 361000000 iteraciones completadas
+2025-05-07 18:19:54,059 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 362000000 iteraciones completadas
+2025-05-07 18:19:54,123 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 363000000 iteraciones completadas
+2025-05-07 18:19:54,185 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 364000000 iteraciones completadas
+2025-05-07 18:19:54,244 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 365000000 iteraciones completadas
+2025-05-07 18:19:54,302 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 366000000 iteraciones completadas
+2025-05-07 18:19:54,362 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 367000000 iteraciones completadas
+2025-05-07 18:19:54,421 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 368000000 iteraciones completadas
+2025-05-07 18:19:54,480 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 369000000 iteraciones completadas
+2025-05-07 18:19:54,540 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 370000000 iteraciones completadas
+2025-05-07 18:19:54,604 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 371000000 iteraciones completadas
+2025-05-07 18:19:54,667 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 372000000 iteraciones completadas
+2025-05-07 18:19:54,729 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 373000000 iteraciones completadas
+2025-05-07 18:19:54,792 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 374000000 iteraciones completadas
+2025-05-07 18:19:54,855 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 375000000 iteraciones completadas
+2025-05-07 18:19:54,918 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 376000000 iteraciones completadas
+2025-05-07 18:19:54,982 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 377000000 iteraciones completadas
+2025-05-07 18:19:55,045 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 378000000 iteraciones completadas
+2025-05-07 18:19:55,105 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 379000000 iteraciones completadas
+2025-05-07 18:19:55,170 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 380000000 iteraciones completadas
+2025-05-07 18:19:55,230 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 381000000 iteraciones completadas
+2025-05-07 18:19:55,287 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 382000000 iteraciones completadas
+2025-05-07 18:19:55,345 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 383000000 iteraciones completadas
+2025-05-07 18:19:55,403 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 384000000 iteraciones completadas
+2025-05-07 18:19:55,462 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 385000000 iteraciones completadas
+2025-05-07 18:19:55,520 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 386000000 iteraciones completadas
+2025-05-07 18:19:55,578 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 387000000 iteraciones completadas
+2025-05-07 18:19:55,637 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 388000000 iteraciones completadas
+2025-05-07 18:19:55,695 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 389000000 iteraciones completadas
+2025-05-07 18:19:55,753 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 390000000 iteraciones completadas
+2025-05-07 18:19:55,812 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 391000000 iteraciones completadas
+2025-05-07 18:19:55,870 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 392000000 iteraciones completadas
+2025-05-07 18:19:55,929 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 393000000 iteraciones completadas
+2025-05-07 18:19:55,989 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 394000000 iteraciones completadas
+2025-05-07 18:19:56,049 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 395000000 iteraciones completadas
+2025-05-07 18:19:56,116 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 396000000 iteraciones completadas
+2025-05-07 18:19:56,186 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 397000000 iteraciones completadas
+2025-05-07 18:19:56,246 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 398000000 iteraciones completadas
+2025-05-07 18:19:56,305 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 399000000 iteraciones completadas
+2025-05-07 18:19:56,365 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 400000000 iteraciones completadas
+2025-05-07 18:19:56,424 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 401000000 iteraciones completadas
+2025-05-07 18:19:56,483 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 402000000 iteraciones completadas
+2025-05-07 18:19:56,542 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 403000000 iteraciones completadas
+2025-05-07 18:19:56,603 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 404000000 iteraciones completadas
+2025-05-07 18:19:56,666 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 405000000 iteraciones completadas
+2025-05-07 18:19:56,725 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 406000000 iteraciones completadas
+2025-05-07 18:19:56,785 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 407000000 iteraciones completadas
+2025-05-07 18:19:56,845 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 408000000 iteraciones completadas
+2025-05-07 18:19:56,904 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 409000000 iteraciones completadas
+2025-05-07 18:19:56,964 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 410000000 iteraciones completadas
+2025-05-07 18:19:57,024 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 411000000 iteraciones completadas
+2025-05-07 18:19:57,084 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 412000000 iteraciones completadas
+2025-05-07 18:19:57,152 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 413000000 iteraciones completadas
+2025-05-07 18:19:57,212 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 414000000 iteraciones completadas
+2025-05-07 18:19:57,272 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 415000000 iteraciones completadas
+2025-05-07 18:19:57,331 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 416000000 iteraciones completadas
+2025-05-07 18:19:57,391 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 417000000 iteraciones completadas
+2025-05-07 18:19:57,451 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 418000000 iteraciones completadas
+2025-05-07 18:19:57,514 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 419000000 iteraciones completadas
+2025-05-07 18:19:57,576 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 420000000 iteraciones completadas
+2025-05-07 18:19:57,639 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 421000000 iteraciones completadas
+2025-05-07 18:19:57,701 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 422000000 iteraciones completadas
+2025-05-07 18:19:57,762 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 423000000 iteraciones completadas
+2025-05-07 18:19:57,821 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 424000000 iteraciones completadas
+2025-05-07 18:19:57,881 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 425000000 iteraciones completadas
+2025-05-07 18:19:57,943 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 426000000 iteraciones completadas
+2025-05-07 18:19:58,011 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 427000000 iteraciones completadas
+2025-05-07 18:19:58,078 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 428000000 iteraciones completadas
+2025-05-07 18:19:58,148 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 429000000 iteraciones completadas
+2025-05-07 18:19:58,220 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 430000000 iteraciones completadas
+2025-05-07 18:19:58,290 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 431000000 iteraciones completadas
+2025-05-07 18:19:58,363 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 432000000 iteraciones completadas
+2025-05-07 18:19:58,432 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 433000000 iteraciones completadas
+2025-05-07 18:19:58,505 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 434000000 iteraciones completadas
+2025-05-07 18:19:58,565 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 435000000 iteraciones completadas
+2025-05-07 18:19:58,631 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 436000000 iteraciones completadas
+2025-05-07 18:19:58,691 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 437000000 iteraciones completadas
+2025-05-07 18:19:58,750 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 438000000 iteraciones completadas
+2025-05-07 18:19:58,812 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 439000000 iteraciones completadas
+2025-05-07 18:19:58,874 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 440000000 iteraciones completadas
+2025-05-07 18:19:58,934 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 441000000 iteraciones completadas
+2025-05-07 18:19:58,993 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 442000000 iteraciones completadas
+2025-05-07 18:19:59,055 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 443000000 iteraciones completadas
+2025-05-07 18:19:59,121 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 444000000 iteraciones completadas
+2025-05-07 18:19:59,183 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 445000000 iteraciones completadas
+2025-05-07 18:19:59,243 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 446000000 iteraciones completadas
+2025-05-07 18:19:59,303 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 447000000 iteraciones completadas
+2025-05-07 18:19:59,362 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 448000000 iteraciones completadas
+2025-05-07 18:19:59,421 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 449000000 iteraciones completadas
+2025-05-07 18:19:59,482 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 450000000 iteraciones completadas
+2025-05-07 18:19:59,543 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 451000000 iteraciones completadas
+2025-05-07 18:19:59,605 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 452000000 iteraciones completadas
+2025-05-07 18:19:59,669 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 453000000 iteraciones completadas
+2025-05-07 18:19:59,733 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 454000000 iteraciones completadas
+2025-05-07 18:19:59,794 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 455000000 iteraciones completadas
+2025-05-07 18:19:59,855 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 456000000 iteraciones completadas
+2025-05-07 18:19:59,917 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 457000000 iteraciones completadas
+2025-05-07 18:19:59,978 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 458000000 iteraciones completadas
+2025-05-07 18:20:00,042 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 459000000 iteraciones completadas
+2025-05-07 18:20:00,104 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 460000000 iteraciones completadas
+2025-05-07 18:20:00,172 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 461000000 iteraciones completadas
+2025-05-07 18:20:00,234 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 462000000 iteraciones completadas
+2025-05-07 18:20:00,298 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 463000000 iteraciones completadas
+2025-05-07 18:20:00,360 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 464000000 iteraciones completadas
+2025-05-07 18:20:00,420 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 465000000 iteraciones completadas
+2025-05-07 18:20:00,483 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 466000000 iteraciones completadas
+2025-05-07 18:20:00,542 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 467000000 iteraciones completadas
+2025-05-07 18:20:00,600 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 468000000 iteraciones completadas
+2025-05-07 18:20:00,662 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 469000000 iteraciones completadas
+2025-05-07 18:20:00,725 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 470000000 iteraciones completadas
+2025-05-07 18:20:00,786 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 471000000 iteraciones completadas
+2025-05-07 18:20:00,846 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 472000000 iteraciones completadas
+2025-05-07 18:20:00,907 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 473000000 iteraciones completadas
+2025-05-07 18:20:00,967 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 474000000 iteraciones completadas
+2025-05-07 18:20:01,026 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 475000000 iteraciones completadas
+2025-05-07 18:20:01,085 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 476000000 iteraciones completadas
+2025-05-07 18:20:01,150 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 477000000 iteraciones completadas
+2025-05-07 18:20:01,207 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 478000000 iteraciones completadas
+2025-05-07 18:20:01,267 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 479000000 iteraciones completadas
+2025-05-07 18:20:01,326 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 480000000 iteraciones completadas
+2025-05-07 18:20:01,385 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 481000000 iteraciones completadas
+2025-05-07 18:20:01,444 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 482000000 iteraciones completadas
+2025-05-07 18:20:01,504 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 483000000 iteraciones completadas
+2025-05-07 18:20:01,563 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 484000000 iteraciones completadas
+2025-05-07 18:20:01,626 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 485000000 iteraciones completadas
+2025-05-07 18:20:01,685 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 486000000 iteraciones completadas
+2025-05-07 18:20:01,745 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 487000000 iteraciones completadas
+2025-05-07 18:20:01,804 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 488000000 iteraciones completadas
+2025-05-07 18:20:01,867 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 489000000 iteraciones completadas
+2025-05-07 18:20:01,926 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 490000000 iteraciones completadas
+2025-05-07 18:20:01,985 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 491000000 iteraciones completadas
+2025-05-07 18:20:02,046 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 492000000 iteraciones completadas
+2025-05-07 18:20:02,108 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 493000000 iteraciones completadas
+2025-05-07 18:20:02,181 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 494000000 iteraciones completadas
+2025-05-07 18:20:02,241 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 495000000 iteraciones completadas
+2025-05-07 18:20:02,301 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 496000000 iteraciones completadas
+2025-05-07 18:20:02,361 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 497000000 iteraciones completadas
+2025-05-07 18:20:02,420 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 498000000 iteraciones completadas
+2025-05-07 18:20:02,481 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 499000000 iteraciones completadas
+2025-05-07 18:20:02,540 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 500000000 iteraciones completadas
+2025-05-07 18:20:02,602 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 501000000 iteraciones completadas
+2025-05-07 18:20:02,665 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 502000000 iteraciones completadas
+2025-05-07 18:20:02,737 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 503000000 iteraciones completadas
+2025-05-07 18:20:02,798 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 504000000 iteraciones completadas
+2025-05-07 18:20:02,858 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 505000000 iteraciones completadas
+2025-05-07 18:20:02,918 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 506000000 iteraciones completadas
+2025-05-07 18:20:02,982 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 507000000 iteraciones completadas
+2025-05-07 18:20:03,048 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 508000000 iteraciones completadas
+2025-05-07 18:20:03,110 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 509000000 iteraciones completadas
+2025-05-07 18:20:03,181 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 510000000 iteraciones completadas
+2025-05-07 18:20:03,244 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 511000000 iteraciones completadas
+2025-05-07 18:20:03,307 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 512000000 iteraciones completadas
+2025-05-07 18:20:03,369 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 513000000 iteraciones completadas
+2025-05-07 18:20:03,429 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 514000000 iteraciones completadas
+2025-05-07 18:20:03,487 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 515000000 iteraciones completadas
+2025-05-07 18:20:03,547 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 516000000 iteraciones completadas
+2025-05-07 18:20:03,604 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 517000000 iteraciones completadas
+2025-05-07 18:20:03,662 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 518000000 iteraciones completadas
+2025-05-07 18:20:03,719 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 519000000 iteraciones completadas
+2025-05-07 18:20:03,778 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 520000000 iteraciones completadas
+2025-05-07 18:20:03,839 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 521000000 iteraciones completadas
+2025-05-07 18:20:03,902 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 522000000 iteraciones completadas
+2025-05-07 18:20:03,961 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 523000000 iteraciones completadas
+2025-05-07 18:20:04,020 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 524000000 iteraciones completadas
+2025-05-07 18:20:04,079 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 525000000 iteraciones completadas
+2025-05-07 18:20:04,147 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 526000000 iteraciones completadas
+2025-05-07 18:20:04,204 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 527000000 iteraciones completadas
+2025-05-07 18:20:04,262 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 528000000 iteraciones completadas
+2025-05-07 18:20:04,321 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 529000000 iteraciones completadas
+2025-05-07 18:20:04,378 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 530000000 iteraciones completadas
+2025-05-07 18:20:04,436 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 531000000 iteraciones completadas
+2025-05-07 18:20:04,496 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 532000000 iteraciones completadas
+2025-05-07 18:20:04,553 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 533000000 iteraciones completadas
+2025-05-07 18:20:04,611 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 534000000 iteraciones completadas
+2025-05-07 18:20:04,668 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 535000000 iteraciones completadas
+2025-05-07 18:20:04,728 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 536000000 iteraciones completadas
+2025-05-07 18:20:04,787 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 537000000 iteraciones completadas
+2025-05-07 18:20:04,847 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 538000000 iteraciones completadas
+2025-05-07 18:20:04,909 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 539000000 iteraciones completadas
+2025-05-07 18:20:04,973 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 540000000 iteraciones completadas
+2025-05-07 18:20:05,045 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 541000000 iteraciones completadas
+2025-05-07 18:20:05,110 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 542000000 iteraciones completadas
+2025-05-07 18:20:05,180 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 543000000 iteraciones completadas
+2025-05-07 18:20:05,238 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 544000000 iteraciones completadas
+2025-05-07 18:20:05,299 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 545000000 iteraciones completadas
+2025-05-07 18:20:05,362 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 546000000 iteraciones completadas
+2025-05-07 18:20:05,424 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 547000000 iteraciones completadas
+2025-05-07 18:20:05,487 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 548000000 iteraciones completadas
+2025-05-07 18:20:05,551 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 549000000 iteraciones completadas
+2025-05-07 18:20:05,613 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 550000000 iteraciones completadas
+2025-05-07 18:20:05,675 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 551000000 iteraciones completadas
+2025-05-07 18:20:05,732 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 552000000 iteraciones completadas
+2025-05-07 18:20:05,790 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 553000000 iteraciones completadas
+2025-05-07 18:20:05,850 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 554000000 iteraciones completadas
+2025-05-07 18:20:05,912 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 555000000 iteraciones completadas
+2025-05-07 18:20:05,975 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 556000000 iteraciones completadas
+2025-05-07 18:20:06,038 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 557000000 iteraciones completadas
+2025-05-07 18:20:06,105 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 558000000 iteraciones completadas
+2025-05-07 18:20:06,177 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 559000000 iteraciones completadas
+2025-05-07 18:20:06,236 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 560000000 iteraciones completadas
+2025-05-07 18:20:06,293 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 561000000 iteraciones completadas
+2025-05-07 18:20:06,352 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 562000000 iteraciones completadas
+2025-05-07 18:20:06,410 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 563000000 iteraciones completadas
+2025-05-07 18:20:06,468 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 564000000 iteraciones completadas
+2025-05-07 18:20:06,527 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 565000000 iteraciones completadas
+2025-05-07 18:20:06,586 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 566000000 iteraciones completadas
+2025-05-07 18:20:06,648 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 567000000 iteraciones completadas
+2025-05-07 18:20:06,707 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 568000000 iteraciones completadas
+2025-05-07 18:20:06,772 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 569000000 iteraciones completadas
+2025-05-07 18:20:06,833 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 570000000 iteraciones completadas
+2025-05-07 18:20:06,893 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 571000000 iteraciones completadas
+2025-05-07 18:20:06,953 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 572000000 iteraciones completadas
+2025-05-07 18:20:07,016 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 573000000 iteraciones completadas
+2025-05-07 18:20:07,079 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 574000000 iteraciones completadas
+2025-05-07 18:20:07,147 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 575000000 iteraciones completadas
+2025-05-07 18:20:07,208 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 576000000 iteraciones completadas
+2025-05-07 18:20:07,269 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 577000000 iteraciones completadas
+2025-05-07 18:20:07,329 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 578000000 iteraciones completadas
+2025-05-07 18:20:07,389 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 579000000 iteraciones completadas
+2025-05-07 18:20:07,449 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 580000000 iteraciones completadas
+2025-05-07 18:20:07,509 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 581000000 iteraciones completadas
+2025-05-07 18:20:07,569 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 582000000 iteraciones completadas
+2025-05-07 18:20:07,630 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 583000000 iteraciones completadas
+2025-05-07 18:20:07,690 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 584000000 iteraciones completadas
+2025-05-07 18:20:07,750 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 585000000 iteraciones completadas
+2025-05-07 18:20:07,809 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 586000000 iteraciones completadas
+2025-05-07 18:20:07,870 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 587000000 iteraciones completadas
+2025-05-07 18:20:07,930 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 588000000 iteraciones completadas
+2025-05-07 18:20:08,010 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 589000000 iteraciones completadas
+2025-05-07 18:20:08,080 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 590000000 iteraciones completadas
+2025-05-07 18:20:08,149 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 591000000 iteraciones completadas
+2025-05-07 18:20:08,210 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 592000000 iteraciones completadas
+2025-05-07 18:20:08,270 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 593000000 iteraciones completadas
+2025-05-07 18:20:08,327 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 594000000 iteraciones completadas
+2025-05-07 18:20:08,385 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 595000000 iteraciones completadas
+2025-05-07 18:20:08,444 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 596000000 iteraciones completadas
+2025-05-07 18:20:08,502 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 597000000 iteraciones completadas
+2025-05-07 18:20:08,560 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 598000000 iteraciones completadas
+2025-05-07 18:20:08,618 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 599000000 iteraciones completadas
+2025-05-07 18:20:08,676 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 600000000 iteraciones completadas
+2025-05-07 18:20:08,734 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 601000000 iteraciones completadas
+2025-05-07 18:20:08,794 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 602000000 iteraciones completadas
+2025-05-07 18:20:08,854 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 603000000 iteraciones completadas
+2025-05-07 18:20:08,912 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 604000000 iteraciones completadas
+2025-05-07 18:20:08,971 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 605000000 iteraciones completadas
+2025-05-07 18:20:09,030 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 606000000 iteraciones completadas
+2025-05-07 18:20:09,091 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 607000000 iteraciones completadas
+2025-05-07 18:20:09,158 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 608000000 iteraciones completadas
+2025-05-07 18:20:09,217 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 609000000 iteraciones completadas
+2025-05-07 18:20:09,275 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 610000000 iteraciones completadas
+2025-05-07 18:20:09,333 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 611000000 iteraciones completadas
+2025-05-07 18:20:09,392 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 612000000 iteraciones completadas
+2025-05-07 18:20:09,451 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 613000000 iteraciones completadas
+2025-05-07 18:20:09,511 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 614000000 iteraciones completadas
+2025-05-07 18:20:09,570 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 615000000 iteraciones completadas
+2025-05-07 18:20:09,630 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 616000000 iteraciones completadas
+2025-05-07 18:20:09,689 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 617000000 iteraciones completadas
+2025-05-07 18:20:09,749 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 618000000 iteraciones completadas
+2025-05-07 18:20:09,808 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 619000000 iteraciones completadas
+2025-05-07 18:20:09,869 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 620000000 iteraciones completadas
+2025-05-07 18:20:09,928 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 621000000 iteraciones completadas
+2025-05-07 18:20:09,989 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 622000000 iteraciones completadas
+2025-05-07 18:20:10,052 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 623000000 iteraciones completadas
+2025-05-07 18:20:10,115 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 624000000 iteraciones completadas
+2025-05-07 18:20:10,179 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 625000000 iteraciones completadas
+2025-05-07 18:20:10,240 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 626000000 iteraciones completadas
+2025-05-07 18:20:10,299 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 627000000 iteraciones completadas
+2025-05-07 18:20:10,358 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 628000000 iteraciones completadas
+2025-05-07 18:20:10,417 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 629000000 iteraciones completadas
+2025-05-07 18:20:10,476 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 630000000 iteraciones completadas
+2025-05-07 18:20:10,535 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 631000000 iteraciones completadas
+2025-05-07 18:20:10,595 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 632000000 iteraciones completadas
+2025-05-07 18:20:10,654 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 633000000 iteraciones completadas
+2025-05-07 18:20:10,716 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 634000000 iteraciones completadas
+2025-05-07 18:20:10,775 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 635000000 iteraciones completadas
+2025-05-07 18:20:10,837 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 636000000 iteraciones completadas
+2025-05-07 18:20:10,896 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 637000000 iteraciones completadas
+2025-05-07 18:20:10,956 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 638000000 iteraciones completadas
+2025-05-07 18:20:11,016 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 639000000 iteraciones completadas
+2025-05-07 18:20:11,075 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 640000000 iteraciones completadas
+2025-05-07 18:20:11,141 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 641000000 iteraciones completadas
+2025-05-07 18:20:11,200 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 642000000 iteraciones completadas
+2025-05-07 18:20:11,259 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 643000000 iteraciones completadas
+2025-05-07 18:20:11,319 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 644000000 iteraciones completadas
+2025-05-07 18:20:11,378 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 645000000 iteraciones completadas
+2025-05-07 18:20:11,439 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 646000000 iteraciones completadas
+2025-05-07 18:20:11,501 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 647000000 iteraciones completadas
+2025-05-07 18:20:11,560 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 648000000 iteraciones completadas
+2025-05-07 18:20:11,619 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 649000000 iteraciones completadas
+2025-05-07 18:20:11,679 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 650000000 iteraciones completadas
+2025-05-07 18:20:11,738 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 651000000 iteraciones completadas
+2025-05-07 18:20:11,797 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 652000000 iteraciones completadas
+2025-05-07 18:20:11,856 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 653000000 iteraciones completadas
+2025-05-07 18:20:11,915 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 654000000 iteraciones completadas
+2025-05-07 18:20:11,977 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 655000000 iteraciones completadas
+2025-05-07 18:20:12,037 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 656000000 iteraciones completadas
+2025-05-07 18:20:12,098 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 657000000 iteraciones completadas
+2025-05-07 18:20:12,168 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 658000000 iteraciones completadas
+2025-05-07 18:20:12,231 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 659000000 iteraciones completadas
+2025-05-07 18:20:12,289 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 660000000 iteraciones completadas
+2025-05-07 18:20:12,350 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 661000000 iteraciones completadas
+2025-05-07 18:20:12,408 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 662000000 iteraciones completadas
+2025-05-07 18:20:12,468 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 663000000 iteraciones completadas
+2025-05-07 18:20:12,529 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 664000000 iteraciones completadas
+2025-05-07 18:20:12,588 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 665000000 iteraciones completadas
+2025-05-07 18:20:12,647 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 666000000 iteraciones completadas
+2025-05-07 18:20:12,705 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 667000000 iteraciones completadas
+2025-05-07 18:20:12,770 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 668000000 iteraciones completadas
+2025-05-07 18:20:12,833 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 669000000 iteraciones completadas
+2025-05-07 18:20:12,893 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 670000000 iteraciones completadas
+2025-05-07 18:20:12,953 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 671000000 iteraciones completadas
+2025-05-07 18:20:13,020 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 672000000 iteraciones completadas
+2025-05-07 18:20:13,085 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 673000000 iteraciones completadas
+2025-05-07 18:20:13,150 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 674000000 iteraciones completadas
+2025-05-07 18:20:13,215 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 675000000 iteraciones completadas
+2025-05-07 18:20:13,273 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 676000000 iteraciones completadas
+2025-05-07 18:20:13,331 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 677000000 iteraciones completadas
+2025-05-07 18:20:13,387 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 678000000 iteraciones completadas
+2025-05-07 18:20:13,445 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 679000000 iteraciones completadas
+2025-05-07 18:20:13,503 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 680000000 iteraciones completadas
+2025-05-07 18:20:13,563 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 681000000 iteraciones completadas
+2025-05-07 18:20:13,625 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 682000000 iteraciones completadas
+2025-05-07 18:20:13,685 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 683000000 iteraciones completadas
+2025-05-07 18:20:13,745 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 684000000 iteraciones completadas
+2025-05-07 18:20:13,804 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 685000000 iteraciones completadas
+2025-05-07 18:20:13,865 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 686000000 iteraciones completadas
+2025-05-07 18:20:13,924 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 687000000 iteraciones completadas
+2025-05-07 18:20:13,986 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 688000000 iteraciones completadas
+2025-05-07 18:20:14,047 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 689000000 iteraciones completadas
+2025-05-07 18:20:14,109 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 690000000 iteraciones completadas
+2025-05-07 18:20:14,181 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 691000000 iteraciones completadas
+2025-05-07 18:20:14,241 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 692000000 iteraciones completadas
+2025-05-07 18:20:14,301 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 693000000 iteraciones completadas
+2025-05-07 18:20:14,361 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 694000000 iteraciones completadas
+2025-05-07 18:20:14,421 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 695000000 iteraciones completadas
+2025-05-07 18:20:14,481 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 696000000 iteraciones completadas
+2025-05-07 18:20:14,542 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 697000000 iteraciones completadas
+2025-05-07 18:20:14,602 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 698000000 iteraciones completadas
+2025-05-07 18:20:14,660 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 699000000 iteraciones completadas
+2025-05-07 18:20:14,720 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 700000000 iteraciones completadas
+2025-05-07 18:20:14,779 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 701000000 iteraciones completadas
+2025-05-07 18:20:14,838 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 702000000 iteraciones completadas
+2025-05-07 18:20:14,900 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 703000000 iteraciones completadas
+2025-05-07 18:20:14,961 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 704000000 iteraciones completadas
+2025-05-07 18:20:15,023 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 705000000 iteraciones completadas
+2025-05-07 18:20:15,086 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 706000000 iteraciones completadas
+2025-05-07 18:20:15,154 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 707000000 iteraciones completadas
+2025-05-07 18:20:15,217 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 708000000 iteraciones completadas
+2025-05-07 18:20:15,279 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 709000000 iteraciones completadas
+2025-05-07 18:20:15,342 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 710000000 iteraciones completadas
+2025-05-07 18:20:15,405 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 711000000 iteraciones completadas
+2025-05-07 18:20:15,467 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 712000000 iteraciones completadas
+2025-05-07 18:20:15,530 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 713000000 iteraciones completadas
+2025-05-07 18:20:15,592 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 714000000 iteraciones completadas
+2025-05-07 18:20:15,651 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 715000000 iteraciones completadas
+2025-05-07 18:20:15,709 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 716000000 iteraciones completadas
+2025-05-07 18:20:15,766 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 717000000 iteraciones completadas
+2025-05-07 18:20:15,823 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 718000000 iteraciones completadas
+2025-05-07 18:20:15,882 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 719000000 iteraciones completadas
+2025-05-07 18:20:15,939 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 720000000 iteraciones completadas
+2025-05-07 18:20:15,998 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 721000000 iteraciones completadas
+2025-05-07 18:20:16,060 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 722000000 iteraciones completadas
+2025-05-07 18:20:16,130 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 723000000 iteraciones completadas
+2025-05-07 18:20:16,190 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 724000000 iteraciones completadas
+2025-05-07 18:20:16,249 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 725000000 iteraciones completadas
+2025-05-07 18:20:16,307 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 726000000 iteraciones completadas
+2025-05-07 18:20:16,365 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 727000000 iteraciones completadas
+2025-05-07 18:20:16,422 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 728000000 iteraciones completadas
+2025-05-07 18:20:16,480 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 729000000 iteraciones completadas
+2025-05-07 18:20:16,539 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 730000000 iteraciones completadas
+2025-05-07 18:20:16,597 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 731000000 iteraciones completadas
+2025-05-07 18:20:16,656 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 732000000 iteraciones completadas
+2025-05-07 18:20:16,714 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 733000000 iteraciones completadas
+2025-05-07 18:20:16,772 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 734000000 iteraciones completadas
+2025-05-07 18:20:16,830 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 735000000 iteraciones completadas
+2025-05-07 18:20:16,892 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 736000000 iteraciones completadas
+2025-05-07 18:20:16,954 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 737000000 iteraciones completadas
+2025-05-07 18:20:17,013 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 738000000 iteraciones completadas
+2025-05-07 18:20:17,072 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 739000000 iteraciones completadas
+2025-05-07 18:20:17,142 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 740000000 iteraciones completadas
+2025-05-07 18:20:17,201 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 741000000 iteraciones completadas
+2025-05-07 18:20:17,264 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 742000000 iteraciones completadas
+2025-05-07 18:20:17,329 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 743000000 iteraciones completadas
+2025-05-07 18:20:17,392 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 744000000 iteraciones completadas
+2025-05-07 18:20:17,450 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 745000000 iteraciones completadas
+2025-05-07 18:20:17,512 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 746000000 iteraciones completadas
+2025-05-07 18:20:17,572 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 747000000 iteraciones completadas
+2025-05-07 18:20:17,634 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 748000000 iteraciones completadas
+2025-05-07 18:20:17,691 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 749000000 iteraciones completadas
+2025-05-07 18:20:17,748 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 750000000 iteraciones completadas
+2025-05-07 18:20:17,807 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 751000000 iteraciones completadas
+2025-05-07 18:20:17,866 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 752000000 iteraciones completadas
+2025-05-07 18:20:17,928 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 753000000 iteraciones completadas
+2025-05-07 18:20:17,995 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 754000000 iteraciones completadas
+2025-05-07 18:20:18,061 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 755000000 iteraciones completadas
+2025-05-07 18:20:18,133 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 756000000 iteraciones completadas
+2025-05-07 18:20:18,200 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 757000000 iteraciones completadas
+2025-05-07 18:20:18,258 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 758000000 iteraciones completadas
+2025-05-07 18:20:18,315 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 759000000 iteraciones completadas
+2025-05-07 18:20:18,375 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 760000000 iteraciones completadas
+2025-05-07 18:20:18,432 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 761000000 iteraciones completadas
+2025-05-07 18:20:18,494 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 762000000 iteraciones completadas
+2025-05-07 18:20:18,550 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 763000000 iteraciones completadas
+2025-05-07 18:20:18,608 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 764000000 iteraciones completadas
+2025-05-07 18:20:18,665 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 765000000 iteraciones completadas
+2025-05-07 18:20:18,737 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 766000000 iteraciones completadas
+2025-05-07 18:20:18,801 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 767000000 iteraciones completadas
+2025-05-07 18:20:18,864 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 768000000 iteraciones completadas
+2025-05-07 18:20:18,928 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 769000000 iteraciones completadas
+2025-05-07 18:20:18,991 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 770000000 iteraciones completadas
+2025-05-07 18:20:19,054 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 771000000 iteraciones completadas
+2025-05-07 18:20:19,128 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 772000000 iteraciones completadas
+2025-05-07 18:20:19,196 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 773000000 iteraciones completadas
+2025-05-07 18:20:19,254 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 774000000 iteraciones completadas
+2025-05-07 18:20:19,311 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 775000000 iteraciones completadas
+2025-05-07 18:20:19,371 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 776000000 iteraciones completadas
+2025-05-07 18:20:19,430 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 777000000 iteraciones completadas
+2025-05-07 18:20:19,489 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 778000000 iteraciones completadas
+2025-05-07 18:20:19,546 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 779000000 iteraciones completadas
+2025-05-07 18:20:19,604 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 780000000 iteraciones completadas
+2025-05-07 18:20:19,662 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 781000000 iteraciones completadas
+2025-05-07 18:20:19,725 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 782000000 iteraciones completadas
+2025-05-07 18:20:19,794 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 783000000 iteraciones completadas
+2025-05-07 18:20:19,853 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 784000000 iteraciones completadas
+2025-05-07 18:20:19,912 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 785000000 iteraciones completadas
+2025-05-07 18:20:19,971 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 786000000 iteraciones completadas
+2025-05-07 18:20:20,034 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 787000000 iteraciones completadas
+2025-05-07 18:20:20,093 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 788000000 iteraciones completadas
+2025-05-07 18:20:20,164 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 789000000 iteraciones completadas
+2025-05-07 18:20:20,222 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 790000000 iteraciones completadas
+2025-05-07 18:20:20,280 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 791000000 iteraciones completadas
+2025-05-07 18:20:20,342 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 792000000 iteraciones completadas
+2025-05-07 18:20:20,401 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 793000000 iteraciones completadas
+2025-05-07 18:20:20,459 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 794000000 iteraciones completadas
+2025-05-07 18:20:20,518 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 795000000 iteraciones completadas
+2025-05-07 18:20:20,579 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 796000000 iteraciones completadas
+2025-05-07 18:20:20,639 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 797000000 iteraciones completadas
+2025-05-07 18:20:20,699 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 798000000 iteraciones completadas
+2025-05-07 18:20:20,759 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 799000000 iteraciones completadas
+2025-05-07 18:20:20,820 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 800000000 iteraciones completadas
+2025-05-07 18:20:20,881 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 801000000 iteraciones completadas
+2025-05-07 18:20:20,947 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 802000000 iteraciones completadas
+2025-05-07 18:20:21,010 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 803000000 iteraciones completadas
+2025-05-07 18:20:21,073 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 804000000 iteraciones completadas
+2025-05-07 18:20:21,143 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 805000000 iteraciones completadas
+2025-05-07 18:20:21,202 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 806000000 iteraciones completadas
+2025-05-07 18:20:21,262 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 807000000 iteraciones completadas
+2025-05-07 18:20:21,321 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 808000000 iteraciones completadas
+2025-05-07 18:20:21,381 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 809000000 iteraciones completadas
+2025-05-07 18:20:21,441 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 810000000 iteraciones completadas
+2025-05-07 18:20:21,500 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 811000000 iteraciones completadas
+2025-05-07 18:20:21,560 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 812000000 iteraciones completadas
+2025-05-07 18:20:21,620 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 813000000 iteraciones completadas
+2025-05-07 18:20:21,681 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 814000000 iteraciones completadas
+2025-05-07 18:20:21,740 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 815000000 iteraciones completadas
+2025-05-07 18:20:21,802 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 816000000 iteraciones completadas
+2025-05-07 18:20:21,861 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 817000000 iteraciones completadas
+2025-05-07 18:20:21,921 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 818000000 iteraciones completadas
+2025-05-07 18:20:21,983 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 819000000 iteraciones completadas
+2025-05-07 18:20:22,044 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 820000000 iteraciones completadas
+2025-05-07 18:20:22,104 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 821000000 iteraciones completadas
+2025-05-07 18:20:22,174 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 822000000 iteraciones completadas
+2025-05-07 18:20:22,231 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 823000000 iteraciones completadas
+2025-05-07 18:20:22,307 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 824000000 iteraciones completadas
+2025-05-07 18:20:22,372 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 825000000 iteraciones completadas
+2025-05-07 18:20:22,430 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 826000000 iteraciones completadas
+2025-05-07 18:20:22,489 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 827000000 iteraciones completadas
+2025-05-07 18:20:22,550 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 828000000 iteraciones completadas
+2025-05-07 18:20:22,610 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 829000000 iteraciones completadas
+2025-05-07 18:20:22,669 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 830000000 iteraciones completadas
+2025-05-07 18:20:22,728 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 831000000 iteraciones completadas
+2025-05-07 18:20:22,788 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 832000000 iteraciones completadas
+2025-05-07 18:20:22,847 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 833000000 iteraciones completadas
+2025-05-07 18:20:22,907 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 834000000 iteraciones completadas
+2025-05-07 18:20:22,970 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 835000000 iteraciones completadas
+2025-05-07 18:20:23,044 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 836000000 iteraciones completadas
+2025-05-07 18:20:23,106 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 837000000 iteraciones completadas
+2025-05-07 18:20:23,179 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 838000000 iteraciones completadas
+2025-05-07 18:20:23,237 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 839000000 iteraciones completadas
+2025-05-07 18:20:23,293 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 840000000 iteraciones completadas
+2025-05-07 18:20:23,351 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 841000000 iteraciones completadas
+2025-05-07 18:20:23,409 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 842000000 iteraciones completadas
+2025-05-07 18:20:23,466 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 843000000 iteraciones completadas
+2025-05-07 18:20:23,524 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 844000000 iteraciones completadas
+2025-05-07 18:20:23,581 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 845000000 iteraciones completadas
+2025-05-07 18:20:23,638 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 846000000 iteraciones completadas
+2025-05-07 18:20:23,696 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 847000000 iteraciones completadas
+2025-05-07 18:20:23,754 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 848000000 iteraciones completadas
+2025-05-07 18:20:23,812 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 849000000 iteraciones completadas
+2025-05-07 18:20:23,870 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 850000000 iteraciones completadas
+2025-05-07 18:20:23,929 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 851000000 iteraciones completadas
+2025-05-07 18:20:23,987 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 852000000 iteraciones completadas
+2025-05-07 18:20:24,047 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 853000000 iteraciones completadas
+2025-05-07 18:20:24,106 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 854000000 iteraciones completadas
+2025-05-07 18:20:24,175 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 855000000 iteraciones completadas
+2025-05-07 18:20:24,233 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 856000000 iteraciones completadas
+2025-05-07 18:20:24,291 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 857000000 iteraciones completadas
+2025-05-07 18:20:24,349 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 858000000 iteraciones completadas
+2025-05-07 18:20:24,408 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 859000000 iteraciones completadas
+2025-05-07 18:20:24,465 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 860000000 iteraciones completadas
+2025-05-07 18:20:24,527 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 861000000 iteraciones completadas
+2025-05-07 18:20:24,587 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 862000000 iteraciones completadas
+2025-05-07 18:20:24,645 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 863000000 iteraciones completadas
+2025-05-07 18:20:24,703 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 864000000 iteraciones completadas
+2025-05-07 18:20:24,761 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 865000000 iteraciones completadas
+2025-05-07 18:20:24,819 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 866000000 iteraciones completadas
+2025-05-07 18:20:24,877 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 867000000 iteraciones completadas
+2025-05-07 18:20:24,935 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 868000000 iteraciones completadas
+2025-05-07 18:20:24,998 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 869000000 iteraciones completadas
+2025-05-07 18:20:25,065 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 870000000 iteraciones completadas
+2025-05-07 18:20:25,133 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 871000000 iteraciones completadas
+2025-05-07 18:20:25,192 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 872000000 iteraciones completadas
+2025-05-07 18:20:25,252 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 873000000 iteraciones completadas
+2025-05-07 18:20:25,311 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 874000000 iteraciones completadas
+2025-05-07 18:20:25,370 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 875000000 iteraciones completadas
+2025-05-07 18:20:25,428 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 876000000 iteraciones completadas
+2025-05-07 18:20:25,488 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 877000000 iteraciones completadas
+2025-05-07 18:20:25,547 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 878000000 iteraciones completadas
+2025-05-07 18:20:25,606 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 879000000 iteraciones completadas
+2025-05-07 18:20:25,666 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 880000000 iteraciones completadas
+2025-05-07 18:20:25,725 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 881000000 iteraciones completadas
+2025-05-07 18:20:25,784 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 882000000 iteraciones completadas
+2025-05-07 18:20:25,844 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 883000000 iteraciones completadas
+2025-05-07 18:20:25,903 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 884000000 iteraciones completadas
+2025-05-07 18:20:25,962 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 885000000 iteraciones completadas
+2025-05-07 18:20:26,022 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 886000000 iteraciones completadas
+2025-05-07 18:20:26,085 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 887000000 iteraciones completadas
+2025-05-07 18:20:26,155 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 888000000 iteraciones completadas
+2025-05-07 18:20:26,215 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 889000000 iteraciones completadas
+2025-05-07 18:20:26,274 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 890000000 iteraciones completadas
+2025-05-07 18:20:26,333 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 891000000 iteraciones completadas
+2025-05-07 18:20:26,393 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 892000000 iteraciones completadas
+2025-05-07 18:20:26,452 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 893000000 iteraciones completadas
+2025-05-07 18:20:26,512 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 894000000 iteraciones completadas
+2025-05-07 18:20:26,571 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 895000000 iteraciones completadas
+2025-05-07 18:20:26,630 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 896000000 iteraciones completadas
+2025-05-07 18:20:26,690 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 897000000 iteraciones completadas
+2025-05-07 18:20:26,750 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 898000000 iteraciones completadas
+2025-05-07 18:20:26,809 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 899000000 iteraciones completadas
+2025-05-07 18:20:26,868 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 900000000 iteraciones completadas
+2025-05-07 18:20:26,928 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 901000000 iteraciones completadas
+2025-05-07 18:20:26,987 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 902000000 iteraciones completadas
+2025-05-07 18:20:27,050 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 903000000 iteraciones completadas
+2025-05-07 18:20:27,113 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 904000000 iteraciones completadas
+2025-05-07 18:20:27,177 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 905000000 iteraciones completadas
+2025-05-07 18:20:27,236 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 906000000 iteraciones completadas
+2025-05-07 18:20:27,296 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 907000000 iteraciones completadas
+2025-05-07 18:20:27,355 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 908000000 iteraciones completadas
+2025-05-07 18:20:27,415 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 909000000 iteraciones completadas
+2025-05-07 18:20:27,474 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 910000000 iteraciones completadas
+2025-05-07 18:20:27,535 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 911000000 iteraciones completadas
+2025-05-07 18:20:27,596 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 912000000 iteraciones completadas
+2025-05-07 18:20:27,656 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 913000000 iteraciones completadas
+2025-05-07 18:20:27,718 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 914000000 iteraciones completadas
+2025-05-07 18:20:27,778 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 915000000 iteraciones completadas
+2025-05-07 18:20:27,838 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 916000000 iteraciones completadas
+2025-05-07 18:20:27,899 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 917000000 iteraciones completadas
+2025-05-07 18:20:27,962 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 918000000 iteraciones completadas
+2025-05-07 18:20:28,036 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 919000000 iteraciones completadas
+2025-05-07 18:20:28,097 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 920000000 iteraciones completadas
+2025-05-07 18:20:28,171 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 921000000 iteraciones completadas
+2025-05-07 18:20:28,230 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 922000000 iteraciones completadas
+2025-05-07 18:20:28,289 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 923000000 iteraciones completadas
+2025-05-07 18:20:28,348 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 924000000 iteraciones completadas
+2025-05-07 18:20:28,406 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 925000000 iteraciones completadas
+2025-05-07 18:20:28,464 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 926000000 iteraciones completadas
+2025-05-07 18:20:28,524 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 927000000 iteraciones completadas
+2025-05-07 18:20:28,585 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 928000000 iteraciones completadas
+2025-05-07 18:20:28,645 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 929000000 iteraciones completadas
+2025-05-07 18:20:28,704 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 930000000 iteraciones completadas
+2025-05-07 18:20:28,763 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 931000000 iteraciones completadas
+2025-05-07 18:20:28,822 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 932000000 iteraciones completadas
+2025-05-07 18:20:28,882 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 933000000 iteraciones completadas
+2025-05-07 18:20:28,942 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 934000000 iteraciones completadas
+2025-05-07 18:20:29,003 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 935000000 iteraciones completadas
+2025-05-07 18:20:29,066 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 936000000 iteraciones completadas
+2025-05-07 18:20:29,140 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 937000000 iteraciones completadas
+2025-05-07 18:20:29,197 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 938000000 iteraciones completadas
+2025-05-07 18:20:29,255 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 939000000 iteraciones completadas
+2025-05-07 18:20:29,313 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 940000000 iteraciones completadas
+2025-05-07 18:20:29,371 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 941000000 iteraciones completadas
+2025-05-07 18:20:29,429 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 942000000 iteraciones completadas
+2025-05-07 18:20:29,487 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 943000000 iteraciones completadas
+2025-05-07 18:20:29,545 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 944000000 iteraciones completadas
+2025-05-07 18:20:29,603 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 945000000 iteraciones completadas
+2025-05-07 18:20:29,660 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 946000000 iteraciones completadas
+2025-05-07 18:20:29,718 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 947000000 iteraciones completadas
+2025-05-07 18:20:29,776 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 948000000 iteraciones completadas
+2025-05-07 18:20:29,834 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 949000000 iteraciones completadas
+2025-05-07 18:20:29,892 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 950000000 iteraciones completadas
+2025-05-07 18:20:29,950 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 951000000 iteraciones completadas
+2025-05-07 18:20:30,010 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 952000000 iteraciones completadas
+2025-05-07 18:20:30,068 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 953000000 iteraciones completadas
+2025-05-07 18:20:30,134 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 954000000 iteraciones completadas
+2025-05-07 18:20:30,197 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 955000000 iteraciones completadas
+2025-05-07 18:20:30,256 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 956000000 iteraciones completadas
+2025-05-07 18:20:30,313 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 957000000 iteraciones completadas
+2025-05-07 18:20:30,371 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 958000000 iteraciones completadas
+2025-05-07 18:20:30,428 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 959000000 iteraciones completadas
+2025-05-07 18:20:30,487 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 960000000 iteraciones completadas
+2025-05-07 18:20:30,545 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 961000000 iteraciones completadas
+2025-05-07 18:20:30,602 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 962000000 iteraciones completadas
+2025-05-07 18:20:30,660 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 963000000 iteraciones completadas
+2025-05-07 18:20:30,719 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 964000000 iteraciones completadas
+2025-05-07 18:20:30,777 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 965000000 iteraciones completadas
+2025-05-07 18:20:30,835 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 966000000 iteraciones completadas
+2025-05-07 18:20:30,893 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 967000000 iteraciones completadas
+2025-05-07 18:20:30,951 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 968000000 iteraciones completadas
+2025-05-07 18:20:31,011 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 969000000 iteraciones completadas
+2025-05-07 18:20:31,070 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 970000000 iteraciones completadas
+2025-05-07 18:20:31,138 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 971000000 iteraciones completadas
+2025-05-07 18:20:31,196 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 972000000 iteraciones completadas
+2025-05-07 18:20:31,254 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 973000000 iteraciones completadas
+2025-05-07 18:20:31,315 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 974000000 iteraciones completadas
+2025-05-07 18:20:31,373 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 975000000 iteraciones completadas
+2025-05-07 18:20:31,430 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 976000000 iteraciones completadas
+2025-05-07 18:20:31,488 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 977000000 iteraciones completadas
+2025-05-07 18:20:31,545 DEBUG c.l.c.c.ControladorCarga [Thread-1] Carga en progreso: 978000000 iteraciones completadas
+2025-05-07 18:20:31,599 INFO c.l.c.c.ControladorCarga [Thread-1] Carga de CPU completada. Total de iteraciones: 978891511
+2025-05-07 18:20:45,840 INFO o.s.b.w.e.t.GracefulShutdown [SpringApplicationShutdownHook] Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-07 18:20:45,845 INFO o.s.b.w.e.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-05-07 18:20:54,077 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [cl.loteria.calculadora.CalculadoraApplicationTests]: CalculadoraApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-07 18:20:54,159 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration cl.loteria.calculadora.CalculadoraApplication for test class cl.loteria.calculadora.CalculadoraApplicationTests
+2025-05-07 18:20:54,387 INFO o.s.b.StartupInfoLogger [main] Starting CalculadoraApplicationTests v1.0.0 using Java 17.0.14 with PID 2601646 (started by fgaete in /home/fgaete/Proyectos/Inovabiz/Loteria/CapacitacionLaboratorioK8S/apps/backend-calculadora)
+2025-05-07 18:20:54,389 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-07 18:20:54,391 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-05-07 18:20:55,519 INFO o.s.v.b.OptionalValidatorFactoryBean [main] Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-07 18:20:55,911 INFO o.s.b.a.e.w.EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2025-05-07 18:20:55,986 INFO o.s.b.StartupInfoLogger [main] Started CalculadoraApplicationTests in 1.752 seconds (process running for 2.384)

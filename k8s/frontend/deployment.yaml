@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-calculadora
+  namespace: laboratorio
+spec:
+  replicas: 1
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
+  selector:
+    matchLabels:
+      app: frontend-calculadora
+  template:
+    metadata:
+      labels:
+        app: frontend-calculadora
+    spec:
+      containers:
+        - name: frontend
+          image: 786137437644.dkr.ecr.us-east-1.amazonaws.com/frontend-calculadora:1.0.2
+          resources:
+            limits:
+              cpu: "300m"
+              memory: "384Mi"
+            requests:
+              cpu: "100m"
+              memory: "128Mi"
+          ports:
+            - containerPort: 3000
+          envFrom:
+            - configMapRef:
+                name: frontend-config
